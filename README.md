@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=fe9600&section=header&fontSize=36&text=Hello%20World!&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=fe9600&section=header&fontSize=36&text=Hello%20World!&fontColor=ffffff&animation=fadeIn" />
 
 ## About Me 👋
 "Hi, I'm Jewook Yoo from Seoul, South Korea, but you can call me Mason in English.
